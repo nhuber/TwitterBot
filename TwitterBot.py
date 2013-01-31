@@ -1,8 +1,7 @@
 """
 
-A simple Twitter bot using the Twitter Python library that finds users who tweet about "Christmas gift ideas," favorites their tweet, follows the users and sends them a friendly tweet with Amazon links of popular gift ideas.
-
-I made this mainly to test Twitter's spam filters. It was banned after ~5 auto-generated spam-tweets.
+A simple Twitter bot using the Twitter Python library that finds users who tweet about "Christmas gift ideas," 
+favorites their tweet, follows the users and sends them a friendly tweet with Amazon links of popular gift ideas.
  
 """
 
